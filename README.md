@@ -41,7 +41,7 @@ An aspiring Cloud Data Engineer with a passion for building scalable solutions t
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=garrett-lam&theme=dracula&hide_border=false)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=garrett-lam&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-
+<!--
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -65,7 +65,7 @@ An aspiring Cloud Data Engineer with a passion for building scalable solutions t
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
+</div>-->
 
 ###
 
