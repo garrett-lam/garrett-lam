@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-An aspiring Cloud Data Engineer with a passion for building scalable solutions to transform complex data into actionable insights.
+**About me:** An aspiring Cloud Data Engineer passionate about building scalable solutions to transform complex data into actionable insights
 
 ---
 ### 💻 Tech Stack:
