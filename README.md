@@ -3,7 +3,7 @@
 I’m an aspiring **Cloud Data Engineer** passionate about building scalable systems that transform complex data into actionable insights.
 
 ---
-### 💻 Tech Stack:
+### 💻 Tech Stack
 
 **Programming Languages:**
 
