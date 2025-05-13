@@ -1,6 +1,6 @@
 ## Hi! I'm Garrett Lam 👋
 
-Passionate about engineering scalable systems that transform big data into actionable insights. With expertise in data engineering, cloud computing, and artificial intelligence, my work centers around automating workflows, deploying cloud-native pipelines, and building agentic systems that drive data-driven innovation.
+I am passionate about engineering scalable systems that transform big data into actionable insights. With expertise in data engineering, cloud computing, and artificial intelligence, my work centers around automating workflows, deploying cloud-native pipelines, and building agentic systems that drive data-driven innovation.
 
 ---
 ### 💻 Tech Stack
