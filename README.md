@@ -23,12 +23,6 @@ I am passionate about engineering scalable systems that transform big data into 
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/garrett-lam/count.svg?"  />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/garrett-lam/garrett-lam/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/garrett-lam/garrett-lam/output/pacman-contribution-graph.svg">
